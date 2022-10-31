@@ -11,6 +11,10 @@ Website : https://amazonindia-scraper.herokuapp.com/
 
 
 
-First install the node modules using `npm install`
-Next run the dev server `npm run dev
+First install the node modules using `npm install` .
+
+
+
+
+Next run the dev server `npm run dev` .
 ` 
