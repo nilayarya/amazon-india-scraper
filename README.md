@@ -1,5 +1,5 @@
 # Amazon-India-Scraper
-Get all information on "amazon.in" with ease.
+Get all information on "amazon.in" in JSON format with ease.
 
 Rapid API : https://rapidapi.com/nilay2014/api/amazon-india-scraper3/
 
