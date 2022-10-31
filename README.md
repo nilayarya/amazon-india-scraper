@@ -2,6 +2,9 @@
 Get all information on "amazon.in" with ease.
 
 Rapid API : https://rapidapi.com/nilay2014/api/amazon-india-scraper3/
+
+
+
 Website : https://amazonindia-scraper.herokuapp.com/
 
 
